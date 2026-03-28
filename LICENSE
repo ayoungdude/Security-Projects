@@ -1,24 +1,3 @@
-# Cybersecurity Portfolio
-
-Welcome! This repository documents my hands-on experience in cybersecurity, featuring projects from the **Google Cybersecurity Professional Certificate** and independent security research.
-
-## 🛠️ Technical Skills
-* **Languages:** Python, SQL, Bash
-* **OS:** Linux (Ubuntu), Windows, Kali Linux
-* **Tools:** Wireshark, tcpdump, Nmap, Splunk, Chronicle (SIEM)
-* **Frameworks:** NIST CSF, MITRE ATT&CK
-
-## 📁 Featured Projects
-* [Network Traffic Analysis](./Network-Security) - Investigating ICMP and DNS traffic using Wireshark.
-* [Python Security Automation](./Python-Scripts) - Automating file access updates and log parsing.
-* [SQL Data Auditing](./SQL-Queries) - Querying employee and machine databases for security compliance.
-
----
-📫 **Contact:** https://www.linkedin.com/in/alexyoungpro
-
-
-
-
 MIT License
 
 Copyright (c) 2026 ayoungdude
