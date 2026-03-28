@@ -11,6 +11,8 @@ The goal of this lab was to analyze various communication samples to identify so
 ## 🔍 Identified Red Flags
 During the analysis of the provided samples, I identified the following common phishing techniques:
 
+EX: ![Phising Analysis Breakdown](phish-analysis.png)
+
 ### 1. Psychological Triggers
 * **False Urgency:** Attackers used language like "Immediate Action Required" or "Account Deletion" to bypass critical thinking.
 * **Authority Impersonation:** Emails mimicked official department heads or IT support to gain trust.
